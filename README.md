@@ -11,6 +11,10 @@ Ein einfaches Tray-Tool, das die aktuelle Kalenderwoche in der Taskleiste anzeig
 1. KW-Tray.EXE herunterladen
 2. Ausführen (keine Installation notwendig)
 
+<img width="1157" height="481" alt="agenda" src="https://github.com/user-attachments/assets/35d8abbe-bdc4-4109-85bf-2373072acb89" />
+<img width="334" height="234" alt="benachrichtigung" src="https://github.com/user-attachments/assets/28870ecb-a1d2-40de-9f51-988ad164ce27" />
+<img width="559" height="1150" alt="Tageskalender" src="https://github.com/user-attachments/assets/b83a193f-43b5-4924-beb5-dae67580af93" />
+
 ---
 
 ## FUNKTIONEN
