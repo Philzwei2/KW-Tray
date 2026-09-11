@@ -8,7 +8,7 @@ Ein einfaches Tray-Tool, das die aktuelle Kalenderwoche in der Taskleiste anzeig
 
 **DOWNLOAD:**
 
-1. KW-Tray.EXE herunterladen
+1. [KW-Tray.exe herunterladen](https://github.com/Philzwei2/KW-Tray/releases/latest)
 2. Ausführen (keine Installation notwendig)
 
 <img width="1157" height="481" alt="agenda" src="https://github.com/user-attachments/assets/35d8abbe-bdc4-4109-85bf-2373072acb89" />
